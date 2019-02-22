@@ -6,4 +6,8 @@ public class Git {
         System.out.println("hello,git!");
 
     }
+
+    public void test(){
+        int a = 1;
+    }
 }
